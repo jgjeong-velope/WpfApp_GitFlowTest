@@ -8,4 +8,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Model\Model_feature2.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Model\Model_feature2.cs" />
+  </ItemGroup>
+
 </Project>
