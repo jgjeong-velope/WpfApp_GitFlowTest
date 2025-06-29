@@ -1,8 +1,10 @@
-develop ¿¡¼­ »ı¼º.
+ï»¿develop ì—ì„œ ìƒì„±.
 
-develop feature1 ¿¡¼­ Ãß°¡.
+develop feature1 ì—ì„œ ì¶”ê°€.
 
-develop ¿¡¼­ ³»¿ë Ãß°¡. 
+develop ì—ì„œ ë‚´ìš© ì¶”ê°€. 
 
-develop ¿¡¼­ ³»¿ë Ãß°¡2
-develop ¿¡¼­ ³»¿ë Ãß°¡3
+develop ì—ì„œ ë‚´ìš© ì¶”ê°€2
+develop ì—ì„œ ë‚´ìš© ì¶”ê°€3
+tmp2 ì—ì„œ ë‚´ìš© ì¶”ê°€.
+main file ìˆ˜ì •. tmp2ì—ì„œ ìˆ˜ì •.
