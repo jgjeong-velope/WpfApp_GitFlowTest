@@ -8,4 +8,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="docs\mainf_file2.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="docs\mainf_file2.cs" />
+  </ItemGroup>
+
 </Project>
